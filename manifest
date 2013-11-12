@@ -10,6 +10,8 @@
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="17" />
+        
+        <!-- targetsdkVersion should be 19 (KitKat 4.4) -->
 
     <application
         android:allowBackup="true"
